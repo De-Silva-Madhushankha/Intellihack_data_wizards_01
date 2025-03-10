@@ -1,3 +1,5 @@
 Do not run all the codes in the notebook at once (I came across an error). 
 But it works perfectly when run one by one.
-I have also commented out the model evaluation and selecting part.
+I have also commented out the model evaluation and selection part.
+Hyperparameter tuning may also take some time since I have used grid search. 
+There is a seperate topic in the notebook for the predictions. To reproduce the predictions, run upto Encoding (one by one), run the final model part (one by one), and then the predictions part (one by one)
